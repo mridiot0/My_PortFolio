@@ -5,6 +5,9 @@ div#exp{
     /* padding: 100px; */
     height: 150%;
 }
+h2#head{
+    margin-top: 20%;
+}
 
 @tailwind base;
 @tailwind components;
