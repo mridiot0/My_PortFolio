@@ -14,8 +14,8 @@ const Home = () => {
           <h2 id= "head" className="text-4xl sm:text-7xl font-bold text-white">
             I'm a Cyber Security Professional.
           </h2>
-          <p className="text-gray-500 py-4 max-w-md">
-            I'm doing ethical hacking for past 2 years and doing my diploma course on Cyber Forensics and Information Security from Behala Government Polytechnic.
+          <p className="text-gray-500 py-4 max-w-md" align="justify">
+            I'm a Cyber Security Enthusiast exploring the vast world of application security and network security for the purpose of securing them and make a better world.
           </p>
           <div>
             <Link

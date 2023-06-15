@@ -15,14 +15,19 @@ const NavBar = () => {
       id: 2,
       link: "about",
     },
+    // {
+    //   id: 3,
+    //   link: "portfolio",
+    // },
     {
       id: 3,
-      link: "portfolio",
+      link: "skills",
     },
     {
       id: 4,
       link: "experience",
     },
+    
     {
       id: 5,
       link: "contact",
@@ -30,7 +35,7 @@ const NavBar = () => {
   ];
 
   return (
-    <div className="flex justify-between items-center w-full h-20 px-4 bg-black text-white fixed">
+    <div className="flex justify-between items-center h-16 w-full px-4 bg-black text-white fixed" >
       <div>
         <h1 className="text-5xl font-signature ml-2">Koushik</h1>
       </div>
