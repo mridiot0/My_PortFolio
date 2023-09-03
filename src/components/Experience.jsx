@@ -17,7 +17,19 @@ const Experience = () => {
             Experience
           </p>
           <p className="py-6"></p>
-          <p style={{fontSize: 20}}> Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptatibus numquam commodi error placeat. Cumque asperiores praesentium officiis recusandae, inventore laboriosam eligendi perspiciatis itaque quibusdam vero, est iure sint soluta tenetur iste dolores. Sit, magnam ipsa perferendis vero nesciunt modi eum eius ut eos, quam nulla. Minus, soluta. Neque laborum accusantium blanditiis exercitationem similique quibusdam cupiditate vel nesciunt, perferendis facere consectetur, corporis ipsa. Blanditiis totam illo dolor harum molestiae doloribus eum iste explicabo inventore autem obcaecati enim facilis nostrum qui eligendi omnis quis possimus, dolorem nihil eveniet labore. Ut cum mollitia quas corporis ipsam, placeat eius ullam ab doloribus? Architecto, porro. </p>
+          <p style={{fontSize: 20}} align="justify">Currently I am increasing my knowledge on web application security. I am continuing my research on OWASP Top 10 which is the global standard for web application security. For the purpose of increasing my knowledge in these fields I've used some hands on vulnerable virtual machines and completed some Capture The Flags (CTF) in this category. This includes:
+<ul color="slategray">
+                1. DVWA: Damn Vulnerable Web Application (DVWA)
+                <br />
+                2. Metasploitable 2
+                <br />
+                3. Hack The Box
+                <br />
+                4. Kioptrix: Level 1
+                <br />
+                5. Hacker101 CTF
+ </ul>
+ </p>
         </div>
       </div>
     </div>
