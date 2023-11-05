@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/mwlite/in/koushik-karan-202656233",
+      href: "https://www.linkedin.com/in/koushik-karan-99283b293/",
       style: "rounded-tr-md",
     },
     {
